@@ -6,3 +6,6 @@
 <br><img src="ss2.png"><br>
 
 <br><img src="ss3.png"><br>
+
+terragrunt graph-dependencies
+digraph online
