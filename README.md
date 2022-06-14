@@ -7,5 +7,5 @@
 
 <br><img src="ss3.png"><br>
 
-terragrunt graph-dependencies
-digraph online
+1. terragrunt graph-dependencies
+2. digraph online
